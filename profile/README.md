@@ -1,5 +1,5 @@
 <h1 align="center">
-  Squad Head
+  SquadHead
 </h1>
 
   
